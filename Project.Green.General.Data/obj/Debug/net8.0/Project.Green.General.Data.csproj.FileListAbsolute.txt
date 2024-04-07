@@ -1,0 +1,15 @@
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\bin\Debug\net8.0\Project.Green.General.Data.deps.json
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\bin\Debug\net8.0\Project.Green.General.Data.dll
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\bin\Debug\net8.0\Project.Green.General.Data.pdb
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\bin\Debug\net8.0\Project.Green.General.Domain.dll
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\bin\Debug\net8.0\Project.Green.General.Domain.pdb
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\obj\Debug\net8.0\Project.Green.General.Data.csproj.AssemblyReference.cache
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\obj\Debug\net8.0\Project.Green.General.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\obj\Debug\net8.0\Project.Green.General.Data.AssemblyInfoInputs.cache
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\obj\Debug\net8.0\Project.Green.General.Data.AssemblyInfo.cs
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\obj\Debug\net8.0\Project.Green.General.Data.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\obj\Debug\net8.0\Project.Green.General.Data.csproj.CopyComplete
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\obj\Debug\net8.0\Project.Green.General.Data.dll
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\obj\Debug\net8.0\refint\Project.Green.General.Data.dll
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\obj\Debug\net8.0\Project.Green.General.Data.pdb
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Data\obj\Debug\net8.0\ref\Project.Green.General.Data.dll

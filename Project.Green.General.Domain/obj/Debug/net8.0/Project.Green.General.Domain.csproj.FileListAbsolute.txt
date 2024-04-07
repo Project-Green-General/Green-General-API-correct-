@@ -1,0 +1,11 @@
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\bin\Debug\net8.0\Project.Green.General.Domain.deps.json
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\bin\Debug\net8.0\Project.Green.General.Domain.dll
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\bin\Debug\net8.0\Project.Green.General.Domain.pdb
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\obj\Debug\net8.0\Project.Green.General.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\obj\Debug\net8.0\Project.Green.General.Domain.AssemblyInfoInputs.cache
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\obj\Debug\net8.0\Project.Green.General.Domain.AssemblyInfo.cs
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\obj\Debug\net8.0\Project.Green.General.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\obj\Debug\net8.0\Project.Green.General.Domain.dll
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\obj\Debug\net8.0\refint\Project.Green.General.Domain.dll
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\obj\Debug\net8.0\Project.Green.General.Domain.pdb
+C:\Users\Michael\Downloads\Green.General.API-main\Green.General.API-main-main\Project.Green.General.Domain\obj\Debug\net8.0\ref\Project.Green.General.Domain.dll
