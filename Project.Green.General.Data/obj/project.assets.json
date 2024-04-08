@@ -1202,19 +1202,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Michael\\.nuget\\packages\\": {}
+    "/Users/ii/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General.Data\\Project.Green.General.Data.csproj",
+      "projectUniqueName": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Data/Project.Green.General.Data.csproj",
       "projectName": "Project.Green.General.Data",
-      "projectPath": "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General.Data\\Project.Green.General.Data.csproj",
-      "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General.Data\\obj\\",
+      "projectPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Data/Project.Green.General.Data.csproj",
+      "packagesPath": "/Users/ii/.nuget/packages/",
+      "outputPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/ii/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1226,8 +1226,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General.Domain\\Project.Green.General.Domain.csproj": {
-              "projectPath": "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General.Domain\\Project.Green.General.Domain.csproj"
+            "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj": {
+              "projectPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj"
             }
           }
         }
@@ -1263,7 +1263,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

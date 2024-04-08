@@ -1,0 +1,285 @@
+{
+  "Project.Green.General.Domain.dll": {
+    "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Orders/Orders.cs": {
+      "Project.Green.General.Domain.Orders.Order": {
+        "System.Int32 Project.Green.General.Domain.Orders.Order::get_Id()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Project.Green.General.Domain.Orders.OrderItem> Project.Green.General.Domain.Orders.Order::get_Items()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime Project.Green.General.Domain.Orders.Order::get_CreatedDate()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Project.Green.General.Domain.Orders.Order::get_totalPrice()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      },
+      "Project.Green.General.Domain.Orders.OrderItem": {
+        "System.Int32 Project.Green.General.Domain.Orders.OrderItem::get_Id()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "Project.Green.General.Domain.Catalog.Item Project.Green.General.Domain.Orders.OrderItem::get_Item()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Project.Green.General.Domain.Orders.OrderItem::get_Quantity()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Project.Green.General.Domain.Orders.OrderItem::get_Price()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Catalog/Item.cs": {
+      "Project.Green.General.Domain.Catalog.Item": {
+        "System.Int32 Project.Green.General.Domain.Catalog.Item::get_Id()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String Project.Green.General.Domain.Catalog.Item::get_Name()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String Project.Green.General.Domain.Catalog.Item::get_Desription()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String Project.Green.General.Domain.Catalog.Item::get_Brand()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Project.Green.General.Domain.Catalog.Item::get_Price()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Project.Green.General.Domain.Catalog.Rating> Project.Green.General.Domain.Catalog.Item::get_Ratings()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Void Project.Green.General.Domain.Catalog.Item::AddRating(Project.Green.General.Domain.Catalog.Rating)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void Project.Green.General.Domain.Catalog.Item::.ctor(System.String,System.String,System.String,System.Decimal)": {
+          "Lines": {
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "27": 0,
+            "28": 0,
+            "31": 0,
+            "32": 0,
+            "35": 0,
+            "36": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 16,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 34,
+              "EndOffset": 36,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 34,
+              "EndOffset": 44,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 52,
+              "EndOffset": 54,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 52,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 81,
+              "EndOffset": 83,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 81,
+              "EndOffset": 95,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Catalog/Rating.cs": {
+      "Project.Green.General.Domain.Catalog.Rating": {
+        "System.Int32 Project.Green.General.Domain.Catalog.Rating::get_Id()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Project.Green.General.Domain.Catalog.Rating::get_Stars()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String Project.Green.General.Domain.Catalog.Rating::get_UserName()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String Project.Green.General.Domain.Catalog.Rating::get_Review()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Void Project.Green.General.Domain.Catalog.Rating::.ctor(System.Int32,System.String,System.String,System.Collections.Generic.List`1<Project.Green.General.Domain.Catalog.Rating>)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0
+          },
+          "Branches": [
+            {
+              "Line": 17,
+              "Offset": 10,
+              "EndOffset": 12,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 10,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 21,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 43,
+              "EndOffset": 57,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
