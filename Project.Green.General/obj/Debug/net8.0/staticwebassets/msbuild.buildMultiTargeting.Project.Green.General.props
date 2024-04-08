@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\Project.Green.General.props" />
+  <Import Project="../build/Project.Green.General.props" />
 </Project>

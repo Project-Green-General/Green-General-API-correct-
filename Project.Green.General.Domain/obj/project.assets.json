@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Michael\\.nuget\\packages\\": {}
+    "/Users/ii/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General.Domain\\Project.Green.General.Domain.csproj",
+      "projectUniqueName": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj",
       "projectName": "Project.Green.General.Domain",
-      "projectPath": "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General.Domain\\Project.Green.General.Domain.csproj",
-      "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General.Domain\\obj\\",
+      "projectPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj",
+      "packagesPath": "/Users/ii/.nuget/packages/",
+      "outputPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/ii/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

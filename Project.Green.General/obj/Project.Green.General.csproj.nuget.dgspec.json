@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General\\Project.Green.General.csproj": {}
+    "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General/Project.Green.General.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General\\Project.Green.General.csproj": {
+    "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General/Project.Green.General.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General\\Project.Green.General.csproj",
+        "projectUniqueName": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General/Project.Green.General.csproj",
         "projectName": "Project.Green.General",
-        "projectPath": "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General\\Project.Green.General.csproj",
-        "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michael\\Downloads\\Green.General.API-main\\Green.General.API-main-main\\Project.Green.General\\obj\\",
+        "projectPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General/Project.Green.General.csproj",
+        "packagesPath": "/Users/ii/.nuget/packages/",
+        "outputPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/ii/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
