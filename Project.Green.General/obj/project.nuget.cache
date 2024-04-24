@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GHTfjIrLww2/6BZe6h6rHRZQOjtyy6mp+V6uOSzxwBO7QjMa/ctbhq7efwTqS7ll1CNrtA3OpqhsoQK9zQEGCg==",
+  "dgSpecHash": "wdIwk2U5LCTEAV+cwGqY9migXyUy2Fk3kzq7q2a8M6dHhaV2aNtdJyiG8KMfAD5yxJA+fA1sULBarfFSRELzKg==",
   "success": true,
-  "projectFilePath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General/Project.Green.General.csproj",
+  "projectFilePath": "/Users/ii/api/Green-General-API-correct-/Project.Green.General/Project.Green.General.csproj",
   "expectedPackageFiles": [
     "/Users/ii/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/ii/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

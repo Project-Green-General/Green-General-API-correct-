@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General/Project.Green.General.csproj",
+      "projectUniqueName": "/Users/ii/api/Green-General-API-correct-/Project.Green.General/Project.Green.General.csproj",
       "projectName": "Project.Green.General",
-      "projectPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General/Project.Green.General.csproj",
+      "projectPath": "/Users/ii/api/Green-General-API-correct-/Project.Green.General/Project.Green.General.csproj",
       "packagesPath": "/Users/ii/.nuget/packages/",
-      "outputPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General/obj/",
+      "outputPath": "/Users/ii/api/Green-General-API-correct-/Project.Green.General/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ii/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "brCIF0I9ApzRcZfooDCepEJOY7e4u/BkA1M2ON2C/g0OsmVqYyDvQOvvGYH88Pn5GNuVBVb34q65ozXMqhXuaA==",
+  "dgSpecHash": "ueAVuaH3nuJjZaMjE/EgN0bLtG6dmxgU5frImiE8GK3kZemb3SpiF8piRckc3OrM6kFWc1mZW/Nj/EAxkUDPIA==",
   "success": true,
-  "projectFilePath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj",
+  "projectFilePath": "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

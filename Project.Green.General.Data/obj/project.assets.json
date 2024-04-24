@@ -1207,11 +1207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Data/Project.Green.General.Data.csproj",
+      "projectUniqueName": "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Data/Project.Green.General.Data.csproj",
       "projectName": "Project.Green.General.Data",
-      "projectPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Data/Project.Green.General.Data.csproj",
+      "projectPath": "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Data/Project.Green.General.Data.csproj",
       "packagesPath": "/Users/ii/.nuget/packages/",
-      "outputPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Data/obj/",
+      "outputPath": "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ii/.nuget/NuGet/NuGet.Config"
@@ -1226,8 +1226,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj": {
-              "projectPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj"
+            "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj": {
+              "projectPath": "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj"
             }
           }
         }

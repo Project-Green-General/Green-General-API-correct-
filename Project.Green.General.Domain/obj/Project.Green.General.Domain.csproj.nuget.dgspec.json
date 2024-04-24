@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj": {}
+    "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj": {}
   },
   "projects": {
-    "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj": {
+    "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj",
+        "projectUniqueName": "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj",
         "projectName": "Project.Green.General.Domain",
-        "projectPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj",
+        "projectPath": "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Domain/Project.Green.General.Domain.csproj",
         "packagesPath": "/Users/ii/.nuget/packages/",
-        "outputPath": "/Users/ii/Desktop/Green-General-API-correct-/Project.Green.General.Domain/obj/",
+        "outputPath": "/Users/ii/api/Green-General-API-correct-/Project.Green.General.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ii/.nuget/NuGet/NuGet.Config"
