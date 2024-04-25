@@ -13,8 +13,17 @@ namespace Project.Green.General.Data{
                 }
 
                 builder.Services.AddDbContext<StoreContext>(options => options.UseSqlServer(storeConnectionString, b => b.MigrationsAssembly(Green.General.Api)));
+                
+                builder.Services.AddCors(options => 
+                {
+                    builder.WithOrgins("http://localhost:3000",
+                    https://brave-glacier-0865b2f0f.1.azurestaticapps.net")
+                    .AllowAnyHeader()
+                    .AllowAnyMethod();
+
+                });
             );
         }
-        //test
+        
     }
 }
