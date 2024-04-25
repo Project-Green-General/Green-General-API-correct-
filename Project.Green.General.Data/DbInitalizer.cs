@@ -11,6 +11,8 @@ namespace Project.Green.General.Data{
                 new Item("Short", "Ohio State Shorts", "Nike", 44.99m) {
                     Id = 2
                 }
+
+                builder.Services.AddDbContext<StoreContext>(options => options.UseSqlServer(storeConnectionString, b => b.MigrationsAssembly(Green.General.Api)));
             );
         }
         //test
